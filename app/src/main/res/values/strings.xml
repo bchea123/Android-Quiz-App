@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Quiz App</string>
+    <string name="correct_answer">That\'s Correct!</string>
+    <string name="wrong_answer">That\'s Incorrect!</string>
+    <!--True Statements-->
+    <string name="open_source_statement">Android is an open source operating system.</string>
+    <string name="users_statement">Android is used by people all around the world.</string>
+    <string name="profit_statement">Microsoft makes more money on Android phones than Microsoft phones.</string>
+    <string name="logo_statement">Android\'s logo was inspired by a bathroom sign.</string>
+    <!--False Statements-->
+    <string name="launched_statement">Android launched in 2008 by Google.</string>
+    <string name="version_name_statement">Android\'s version names are based on types of cars.</string>
+    <string name="available_statement">Android operating system is only available for mobile phones.</string>
+    <string name="idea_statement">Android was Google\'s idea.</string>
+</resources>
